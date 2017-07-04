@@ -10,8 +10,8 @@ Fun fact: It was during this project that I learned about regular expressions an
 
 ## Screenshots
 
-![opening interface](https://raw.githubusercontent.com/rfong/disassembler/master/screenshots/screenshot1.jpg)
+![opening interface](https://github.com/rfblue2/pic-disassembler/blob/master/screenshots/screenshot1.JPG)
 
-![hex](https://raw.githubusercontent.com/rfong/disassembler/master/screenshots/screenshot2.jpg)
+![hex](https://github.com/rfblue2/pic-disassembler/blob/master/screenshots/screenshot2.JPG)
 
-![asm](https://raw.githubusercontent.com/rfong/disassembler/master/screenshots/screenshot3.jpg)
+![asm](https://github.com/rfblue2/pic-disassembler/blob/master/screenshots/screenshot3.JPG)
